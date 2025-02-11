@@ -1,4 +1,4 @@
-#  NASA EPFD Gamified Flight Training VR Experience  
+#  NASA EPFD Gamified Flight Sim VR Experience  
  **Developed for NASA’s Electrified Powertrain Flight Demonstration (EPFD) Project**  
 🎮 **Unity | VR | Gamified Public Outreach**
 
@@ -26,8 +26,8 @@ https://github.com/user-attachments/assets/3841e6d5-d9a1-4cd6-b77d-4059affd419b
 
 
 ##  Code Access  
-This project is **not publicly available** due to NASA regulations.  
-However, if you are interested, **please contact me**, and I can request to add you to the private repository.
+This project is **not publicly available**.  
+If you are interested, **please contact me**, and I can request to add you to the private repository.
 
 📧 **Contact:** ananya.srinivasan03@gmail.com
 
