@@ -21,7 +21,6 @@ This project is a **VR-based, gamified flight training experience** designed to 
 <img width="901" alt="image" src="https://github.com/user-attachments/assets/97742470-64bf-4de2-9970-39f2a852edd3" />
 
 
-https://github.com/user-attachments/assets/3841e6d5-d9a1-4cd6-b77d-4059affd419b
 
 
 
